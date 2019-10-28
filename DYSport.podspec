@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DYSport'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'deyi sport component'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-这是超哥的第一个组件化仓库，欢迎光临
+deyi sport component.This is LemonChao first resp, welcome!!这是超哥的第一个组件化仓库，欢迎光临
                        DESC
 
   s.homepage         = 'https://github.com/LemonChao/DYSport'
